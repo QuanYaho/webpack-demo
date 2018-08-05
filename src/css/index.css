@@ -1,0 +1,8 @@
+body {
+    background:  url('../images/pic11.jpg') 0 0 no-repeat;
+    background-size: cover;
+}
+li {
+    list-style: none;
+    background-color: pink;
+}
